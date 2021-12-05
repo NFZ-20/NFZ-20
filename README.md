@@ -2,7 +2,8 @@
 - 👀 I’m interested in making and working projects
 - 🌱 I’m currently learning java
 - 🤝 I’m looking to collaborate on nothing right now 
-- 📫 How to reach me- add me on discord. Username- Fishygamer973#9612
+- 📫 How to reach me-
+1. Add me on discord. Username- Fishygamer973#9612
 
 <!---
 NFZ-20/NFZ-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
