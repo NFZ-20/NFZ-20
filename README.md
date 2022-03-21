@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NFZ-20
-- 👀 I’m interested in making and working projects
+- 👀 I’m interested in making and working on projects
 - 🌱 I’m currently learning java
 - 🤝 I’m looking to collaborate on nothing right now 
 - 📫 How to reach me-
